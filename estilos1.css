@@ -100,3 +100,15 @@ a.button
 {
 	color: #ffffff;
 }
+td{
+	width: 400px;
+	height: 70px;
+}
+hr.form{
+	width: 350px;
+	text-align: left;
+	margin-left:0;
+}
+h1.contact{
+	text-align: center;
+}
