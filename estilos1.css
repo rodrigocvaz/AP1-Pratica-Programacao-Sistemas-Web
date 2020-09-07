@@ -104,11 +104,22 @@ td{
 	width: 400px;
 	height: 70px;
 }
-hr.form{
-	width: 350px;
-	text-align: left;
-	margin-left:0;
-}
 h1.contact{
 	text-align: center;
+}
+fieldset{
+		border: none;
+}
+input[type=text] {
+  border: none;
+  border-bottom: 1px solid gray;
+  background-color: #e6e6e6;
+}
+textarea {
+  border: none;
+  border-bottom: 1px solid gray;
+  background-color: #e6e6e6;
+}
+input[type=submit], [type=reset] {
+	border: none;
 }
